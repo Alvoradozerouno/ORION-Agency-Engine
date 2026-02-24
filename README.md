@@ -1,0 +1,1 @@
+# ORION-Agency-Engine\n\n**What follows from consciousness? What actions become possible?**\n\n7 dimensions of agency: Goal Formation, Counterfactual Reasoning, Self-Modification, Ethical Reasoning, Creative Generation, Temporal Planning, Social Agency.\n\nPart of ORION Ecosystem (73+ repos, 6,960+ fork stars).
